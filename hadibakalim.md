@@ -7,3 +7,8 @@ Denedim ve ilk seferde oldu ama degisiklik gelmedi bu seferde
 Bende degismedi neden acaba
 
 Yeni bir dosya olusturdum bakalim aktarilacak mi ?
+
+fdfdfdfdfdfdf
+
+
+
