@@ -8,4 +8,9 @@ Pasta
 Chicken
 Fry
 
+Beans
+Onion
+Pizza
+
+
 Regards
